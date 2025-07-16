@@ -59,7 +59,7 @@ Features created per wallet:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### ⚡ 2. RUN FILE
 
 ```bash
